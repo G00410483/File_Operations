@@ -1,0 +1,21 @@
+﻿  Source.cpp
+C:\Users\dvlas\OneDrive - Atlantic TU\Procedural Programming\File Example\File Example\Source.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\dvlas\OneDrive - Atlantic TU\Procedural Programming\File Example\File Example\Source.cpp(118,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dvlas\OneDrive - Atlantic TU\Procedural Programming\File Example\File Example\Source.cpp(175,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dvlas\OneDrive - Atlantic TU\Procedural Programming\File Example\File Example\Source.cpp(110,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dvlas\OneDrive - Atlantic TU\Procedural Programming\File Example\File Example\Source.cpp(140,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dvlas\OneDrive - Atlantic TU\Procedural Programming\File Example\File Example\Source.cpp(144,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dvlas\OneDrive - Atlantic TU\Procedural Programming\File Example\File Example\Source.cpp(151,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dvlas\OneDrive - Atlantic TU\Procedural Programming\File Example\File Example\Source.cpp(155,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dvlas\OneDrive - Atlantic TU\Procedural Programming\File Example\File Example\Source.cpp(162,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dvlas\OneDrive - Atlantic TU\Procedural Programming\File Example\File Example\Source.cpp(168,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dvlas\OneDrive - Atlantic TU\Procedural Programming\File Example\File Example\Source.cpp(176,2): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dvlas\OneDrive - Atlantic TU\Procedural Programming\File Example\File Example\Source.cpp(13,6): warning C4101: 'numInputs': unreferenced local variable
+C:\Users\dvlas\OneDrive - Atlantic TU\Procedural Programming\File Example\File Example\Source.cpp(11,7): warning C4101: 'letter': unreferenced local variable
+C:\Users\dvlas\OneDrive - Atlantic TU\Procedural Programming\File Example\File Example\Source.cpp(7,8): warning C4101: 'file2': unreferenced local variable
+C:\Users\dvlas\OneDrive - Atlantic TU\Procedural Programming\File Example\File Example\Source.cpp(12,9): warning C4101: 'numIteration': unreferenced local variable
+C:\Users\dvlas\OneDrive - Atlantic TU\Procedural Programming\File Example\File Example\Source.cpp(6,8): warning C4101: 'file1': unreferenced local variable
+C:\Users\dvlas\OneDrive - Atlantic TU\Procedural Programming\File Example\File Example\Source.cpp(12,6): warning C4101: 'i': unreferenced local variable
+C:\Users\dvlas\OneDrive - Atlantic TU\Procedural Programming\File Example\File Example\Source.cpp(10,8): warning C4101: 'rate': unreferenced local variable
+C:\Users\dvlas\OneDrive - Atlantic TU\Procedural Programming\File Example\File Example\Source.cpp(9,6): warning C4101: 'num': unreferenced local variable
+  File Example.vcxproj -> C:\Users\dvlas\OneDrive - Atlantic TU\Procedural Programming\File Example\x64\Debug\File Example.exe
